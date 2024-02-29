@@ -24,8 +24,9 @@ author:
   avatar           : "wpfAvatar.png"
   name             : "Pengfei Wang"
   pronouns         : # example: "she/her"  
-  bio              : ||
+  bio              : |
     Beijing University of Posts and Telecommunications
+    
     wangpengfei@bupt.edu.cn
   location         : "China Beijing"
   employer         : #
